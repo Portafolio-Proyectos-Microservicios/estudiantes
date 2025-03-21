@@ -1,0 +1,10 @@
+com\microservice\estudiantes\EstudiantesApplication.class
+com\microservice\estudiantes\controller\EstudianteController.class
+com\microservice\estudiantes\service\RedisService.class
+com\microservice\estudiantes\service\impl\RedisImpl.class
+com\microservice\estudiantes\client\WebClientConfig.class
+com\microservice\estudiantes\model\Estudiante.class
+com\microservice\estudiantes\service\impl\EstudianteImpl.class
+com\microservice\estudiantes\repository\EstudianteRepository.class
+com\microservice\estudiantes\config\RedisConfig.class
+com\microservice\estudiantes\service\EstudianteService.class

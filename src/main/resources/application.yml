@@ -1,0 +1,15 @@
+server:
+port: 8090
+
+spring:
+ application:
+  name: estudiantes
+  banner:
+   location: classpath:banner/banner.txt
+
+# Config Server
+ config:
+  import: "configserver:"
+ cloud:
+ cloud.config.uri: http://localhost:8888
+
