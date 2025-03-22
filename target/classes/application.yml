@@ -4,8 +4,8 @@ port: 8090
 spring:
  application:
   name: estudiantes
-  banner:
-   location: classpath:banner/banner.txt
+ banner:
+  location: classpath:banner/banner.txt
 
 # Config Server
  config:
